@@ -1,5 +1,7 @@
 # Week 5 NLP Course
 
+[Click to view slides](https://drive.google.com/drive/folders/1FJT0I5skf0P8UPB5CX4TSwEHYKCb9CcG?usp=drive_link)
+
 ## Module 1: Text Analysis
 
 Key Skills:
